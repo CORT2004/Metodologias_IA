@@ -1,0 +1,83 @@
+==========================Metodologia Agile=================================================
+
+La metodología Agile (o ágil) es un enfoque para gestionar proyectos basado en ciclos cortos, colaboración y adaptación constante.
+
+Divide el trabajo en pequeñas partes (iteraciones o “sprints”).
+Permite entregar resultados parciales de forma continua.
+Se basa en el Manifiesto Ágil, que prioriza la colaboración, el software funcional y la adaptación al cambio.
+La metodología Agile sirve principalmente para:
+
+1. Adaptarse a cambios rápidos
+Permite modificar el proyecto conforme cambian los requisitos o necesidades.
+
+2. Entregar resultados más rápido
+En lugar de esperar al final, se entregan avances funcionales en cada ciclo.
+
+3. Mejorar la colaboración
+Fomenta el trabajo en equipo y la comunicación constante entre desarrolladores y clientes.
+
+4. Aumentar la calidad del producto
+Al revisar continuamente el trabajo, se detectan errores antes.
+
+Agile funciona mediante un proceso iterativo y cíclico. El flujo típico es:
+
+ Ciclo Agile (Sprint)
+1-Planificación: Se definen objetivos y tareas del ciclo.
+2-Ejecución (Sprint): El equipo trabaja durante un periodo corto (1–4 semanas).
+3-Reuniones diarias (Daily): Se revisa el avance y problemas.
+4-Entrega: Se presenta un resultado funcional al cliente.
+5-Retrospectiva: Se analiza qué mejorar para el siguiente ciclo.
+
+===============================Metodologia Black Belt========================================
+Black Belt es un nivel de certificación dentro de la metodología Six Sigma, que identifica a profesionales capaces de liderar proyectos de mejora de procesos basados en datos.
+
+Six Sigma es una metodología enfocada en reducir defectos y variabilidad en procesos, usando análisis estadístico.
+
+un Black Belt:
+
+Lidera proyectos complejos
+Usa herramientas estadísticas avanzadas
+Toma decisiones basadas en datos
+
+En pocas palabras:
+Un Black Belt es un experto en mejora de procesos que aplica Six Sigma a nivel avanzado.
+La metodología Six Sigma (y el rol Black Belt) sirve para mejorar procesos y reducir errores.
+
+Reducir defectos
+Busca llegar a un nivel de 3.4 defectos por millón de oportunidades.
+
+✔ Mejorar calidad: Optimiza procesos para hacerlos más consistentes.
+✔ Reducir costos: Menos errores = menos retrabajo.
+✔ Tomar decisiones con datos: Se basa en análisis estadístico, no en suposiciones.
+
+Resumen:
+Sirve para hacer procesos más eficientes, medibles y confiables.
+
+Six Sigma funciona principalmente mediante el ciclo DMAIC, que es el núcleo del trabajo de un Black Belt:
+Ciclo DMAIC
+1. Define (Definir): Se identifica el problema y los objetivos del proyecto.
+2. Measure (Medir): Se recopilan datos del proceso actual.
+3. Analyze (Analizar): Se identifican las causas raíz de los problemas.
+4. Improve (Mejorar): Se implementan soluciones.
+5. Control (Controlar): Se asegura que las mejoras se mantengan.
+
+=================================Metodologia Lean=============================================
+
+
+================================Metodologia Waterfall=========================================
+
+
+Bibliografia 
+(Agile):
+https://www.atlassian.com/es/agile?utm_source=chatgpt.com
+
+https://www.unir.net/revista/ingenieria/metodologia-agile/?utm_source=chatgpt.com
+
+(Black Belt)
+https://asq.org/quality-resources/six-sigma?utm_source=chatgpt.com
+
+https://www.asq.org/cert/six-sigma-black-belt?utm_source=chatgpt.com
+
+(Lean)
+
+(Waterfall)
