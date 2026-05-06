@@ -29,6 +29,7 @@ Agile funciona mediante un proceso iterativo y cíclico. El flujo típico es:
 5-Retrospectiva: Se analiza qué mejorar para el siguiente ciclo.
 
 ===============================Metodologia Black Belt========================================
+
 Black Belt es un nivel de certificación dentro de la metodología Six Sigma, que identifica a profesionales capaces de liderar proyectos de mejora de procesos basados en datos.
 
 Six Sigma es una metodología enfocada en reducir defectos y variabilidad en procesos, usando análisis estadístico.
@@ -63,6 +64,45 @@ Ciclo DMAIC
 
 =================================Metodologia Lean=============================================
 
+La metodología Lean es un enfoque de gestión que busca maximizar el valor para el cliente eliminando desperdicios (waste) en los procesos.
+Su origen está en el Sistema de Producción de Toyota (TPS), desarrollado en Japón.
+
+Lean se basa en:
+-Crear valor para el cliente
+-Eliminar actividades que no aportan valor
+-Mejorar continuamente (Kaizen)
+
+En pocas palabras: Lean = hacer más con menos eliminando desperdicios
+Lean sirve para optimizar procesos, reducir costos y mejorar la eficiencia
+
+Objetivos principales:
+1. Eliminar desperdicios (Muda): Ejemplos de desperdicio:
+-Sobreproducción
+-Tiempos de espera
+-Defectos
+2. Mejorar eficiencia: Procesos más rápidos y simples
+3. Reducir costos: Menos recursos desperdiciados
+4. Aumentar valor al cliente: Solo se trabaja en lo que realmente aporta valor
+
+Resumen: Lean sirve para hacer procesos más rápidos, eficientes y enfocados en el cliente
+
+Los 5 principios Lean:
+1. Identificar valor: Definir qué es importante para el cliente
+2. Mapear el flujo de valor (Value Stream Mapping): Analizar todo el proceso
+3. Crear flujo continuo: Evitar interrupciones
+4. Sistema Pull (por demanda): Producir solo cuando se necesita
+5. Mejora continua (Kaizen): Mejorar constantemente
+
+Herramientas Lean más usadas
+-Kaizen → mejora continua
+-Kanban → control visual del flujo de trabajo
+-5S → organización del lugar de trabajo
+-Just in Time → producir solo lo necesario
+
+Lean no es solo manufactura, También se usa en:
+-Proyectos
+-Software (Lean Software Development)
+-Servicios
 
 ================================Metodologia Waterfall=========================================
 
@@ -79,5 +119,7 @@ https://asq.org/quality-resources/six-sigma?utm_source=chatgpt.com
 https://www.asq.org/cert/six-sigma-black-belt?utm_source=chatgpt.com
 
 (Lean)
+https://www.lean.org/explore-lean/what-is-lean/
+
 
 (Waterfall)

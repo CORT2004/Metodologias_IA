@@ -26,6 +26,6 @@
 
 
 #Bibliografia:
-#https://asq.org/quality-resources/articles/an-inside-look-at-six-sigma-at-ge?id=83c5624f5fbf4688bd3d1af434081c9a&utm_source=chatgpt.com
+#https://asq.org/quality-resources/articles/an-inside-look-at-six-sigma-at-ge?id=83c5624f5fbf4688bd3d1af434081c9a&
 
-#https://www.ibscdc.org/Case_Studies/Operations/Operations/Six%20Sigma%20at%20GE.htm?utm_source=chatgpt.com
+#https://www.ibscdc.org/Case_Studies/Operations/Operations/Six%20Sigma%20at%20GE.htm
