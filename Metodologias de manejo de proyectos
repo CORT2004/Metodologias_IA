@@ -106,6 +106,39 @@ Lean no es solo manufactura, También se usa en:
 
 ================================Metodologia Waterfall=========================================
 
+La metodología Waterfall (cascada) es un enfoque de gestión de proyectos secuencial y lineal, donde cada fase debe completarse antes de pasar a la siguiente.
+
+El concepto fue formalizado por
+Winston W. Royce en 1970.
+
+En pocas palabras:
+Waterfall = proceso paso a paso sin retrocesos entre fases
+
+Waterfall sirve para gestionar proyectos donde los requisitos están claros desde el inicio y no cambian mucho.
+
+Objetivos principales:
+1. Control y planificación clara: Cada fase está bien definida
+2. Documentación completa: Todo queda registrado
+3. Facilidad de gestión: Es fácil de entender y seguir
+4. Proyectos estables: Ideal cuando no hay cambios frecuentes
+
+Resumen: Sirve para proyectos estructurados, predecibles y con requisitos fijos
+
+Waterfall funciona mediante fases secuenciales.
+Fases del modelo Waterfall:
+1. Requisitos: Se definen todas las necesidades del proyecto
+2. Diseño: Se planifica cómo se va a construir
+3. Implementación: Se desarrolla el producto
+4. Verificación (testing): Se prueban los resultados
+5. Mantenimiento: Se corrigen errores y se mejora
+
+Idea clave:No se avanza a la siguiente fase hasta terminar la anterior
+
+Waterfall es lo opuesto a Agile, es rígido pero predecible
+Funciona mejor en:
+- Construcción
+- Ingeniería
+- Proyectos regulados
 
 Bibliografia 
 (Agile):
@@ -123,3 +156,8 @@ https://www.lean.org/explore-lean/what-is-lean/
 
 
 (Waterfall)
+https://en.wikipedia.org/wiki/Waterfall_model
+
+https://www.pmi.org/learning/library/2019/04/07/15/02/project-management-process-models-job-satisfaction-1921?
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3131958&
